@@ -1,0 +1,1 @@
+C:\Users\user\Desktop\ACLN\ACL\bin\GeneratedProjects\UWP\Assembly-CSharp\obj\ARM\Debug\ARM\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache

@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\ACLN\ACL\bin\ACL\ACL.csproj;x86
+C:\Users\user\Desktop\ACLN\ACL\bin\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
